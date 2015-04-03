@@ -2,16 +2,16 @@
 tags: [security,angular,rest,oauth]
 projects: [spring-security,spring-security-oauth]
 ---
-:toc:
+:toc: left
 :icons: font
 :source-highlighter: prettify
 :image-width: 500
 
 = Spring Security and Angular JS
 
-include::part-1.adoc[leveloffset=+1]
-include::part-2.adoc[leveloffset=+1]
-include::part-3.adoc[leveloffset=+1]
-include::part-4.adoc[leveloffset=+1]
-include::part-5.adoc[leveloffset=+1]
-include::part-6.adoc[leveloffset=+1]
+include::https://raw.githubusercontent.com/gregturn/spring-security-angular/asciidoctor/basic/README.adoc[leveloffset=+1]
+include::https://raw.githubusercontent.com/gregturn/spring-security-angular/asciidoctor/single/README.adoc[leveloffset=+1]
+include::https://raw.githubusercontent.com/gregturn/spring-security-angular/asciidoctor/vanilla/README.adoc[leveloffset=+1]
+include::https://raw.githubusercontent.com/gregturn/spring-security-angular/asciidoctor/proxy/README.adoc[leveloffset=+1]
+include::https://raw.githubusercontent.com/gregturn/spring-security-angular/asciidoctor/oauth2-vanilla/README.adoc[leveloffset=+1]
+include::https://raw.githubusercontent.com/gregturn/spring-security-angular/asciidoctor/double/README.adoc[leveloffset=+1]
